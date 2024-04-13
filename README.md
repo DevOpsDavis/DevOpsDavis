@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devopsdavis&label=Profile%20views&color=0e75b6&style=flat" alt="devopsdavis" /> </p>
 
-- 🔭 I’m currently working on **"Maven Market" Data Science with Pandas & Numpy**
+- 🔭 I’m currently working on **a Program to help with automation of Credit Repair letters and dispute send offs to the Credit Bureaus**
 
 - 🌱 I’m currently learning **Pandas, Numpy, Seaborn**
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **ddav207@wgu.edu**
 
-- ⚡ Fun fact **I dropped out of high but educate Master Degree holders about finances.**
+- ⚡ Fun fact **I dropped out of high school but educate Master Degree holders about finances.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
